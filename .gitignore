@@ -1,0 +1,7 @@
+# Project exclude paths
+/onlineshop_backend_web/target/
+/onlineshop_common/target/
+/onlineshop_dao/target/
+/onlineshop_front_web/target/
+/onlineshop_pojo/target/
+/onlineshop_service/target/
