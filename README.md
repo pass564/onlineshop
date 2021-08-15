@@ -15,8 +15,6 @@
 
 测试时使用jdk1.8
 
-sql语句已经放在eb.sql文件中，数据库名称：eb
-
 在onlineshop_backend_web和onlineshop_front_web中使用maven里面提供的tomcat即可运行前台以及后台系统
 
 ### 项目结构
